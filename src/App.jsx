@@ -87,8 +87,8 @@ export default function App() {
           </ul>
         </div>
       </div>
-      <div className='container'>
-        <div class='footer-links'>
+      <div className='footer'>
+        <div className='footer-links'>
           <ul>
             <li>
               <a
